@@ -7,7 +7,8 @@ Colour images and figures we made from **public James Webb Space Telescope data*
 | `fields/` | Deep fields: JADES GOODS-South (Hubble Ultra Deep Field area), Abell 2744 (UNCOVER), COSMOS (PRIMER) — 1200 px and 3000 px |
 | `strips/` | Filter-by-filter "dropout" strips of ten of the most distant spectroscopically confirmed galaxies (z = 11.4–14.4) |
 | `lens/` | Lens model of the Einstein cross HE 0435−1223 (JWST GO-1198, NIRCam F150W) |
-| `social/` | 4:5 images used in our posts (added as they are published) |
+| `social/` | 4:5 (1080×1350) images for our LinkedIn series: deep-field zoom, Abell 2744 arcs, MoM-z14, GS-z14-0, three fields, Einstein cross, Hubble vs Webb, ten most distant galaxies, Abell 370 "Dragon" arc (CANUCS), CEERS merger |
+| `figures/` | Analysis figures: early galaxies vs the ΛCDM baryon ceiling, and its cosmology sensitivity |
 
 ## Credits
 
